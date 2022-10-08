@@ -2,45 +2,21 @@
   {
     "uniqueField": "meta",
     "name": "Dinesh Pandiyan",
-    "title": "Blog Template",
+    "title": "Dinesh Pandiyan",
     "about": {
       "document": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Hello! Welcome to my blog. This is a template to build your own static blogs using Keystone. Available in three themes - "
+              "text": "Hello! Welcome to my blog. I built this using "
             },
             {
               "type": "link",
-              "href": "https://sleekstaticblogswithkeystone.netlify.app",
+              "href": "https://github.com/flexdinesh/keystone-static-blog",
               "children": [
                 {
-                  "text": "sleek"
-                }
-              ]
-            },
-            {
-              "text": ", "
-            },
-            {
-              "type": "link",
-              "href": "https://newspaperstaticblogswithkeystone.netlify.app",
-              "children": [
-                {
-                  "text": "newspaper"
-                }
-              ]
-            },
-            {
-              "text": " and "
-            },
-            {
-              "type": "link",
-              "href": "https://cardboardstaticblogswithkeystone.netlify.app",
-              "children": [
-                {
-                  "text": "cardboard"
+                  "text": "Keystone static blog template"
                 }
               ]
             },
@@ -53,12 +29,12 @@
     },
     "github": "flexdinesh",
     "twitter": "flexdinesh",
-    "metaTitle": "Static Blogs with Keystone | Dinesh Pandiyan",
-    "metaDescription": "Starter template to build your own static blogs with Keystone. Created by Dinesh Pandiyan.",
-    "metaImageUrl": "https://staticblogswithkeystone.netlify.app/images/meta-image.png",
-    "metaImageAltText": "Banner for staticblogswithkeystone.netlify.app",
-    "metaImageWidth": "1920",
-    "metaImageHeight": "1080",
-    "metaUrl": "https://staticblogswithkeystone.netlify.app"
+    "metaTitle": "Dinesh Pandiyan's Blog",
+    "metaDescription": "Dinesh Pandiyan | I write down my thoughts on modern web development and tooling. JavaScript, React, CSS, and more!",
+    "metaImageUrl": "https://dineshpandiyan.com/images/meta-image.png",
+    "metaImageAltText": "Dinesh Pandiyan's Blog",
+    "metaImageWidth": "960",
+    "metaImageHeight": "540",
+    "metaUrl": "https://dineshpandiyan.com"
   }
 ]
