@@ -1,8 +1,8 @@
 {
-  "name": "keystone-static-blog",
+  "name": "dineshpandiyan-blog",
   "version": "0.0.1",
-  "description": "Starter template to statically generate blogs with Keystone and Next.js",
-  "repository": "git@github.com:flexdinesh/keystone-static-blog.git",
+  "description": "Dinesh Pandiyan's website built with Keystone and Next.js",
+  "repository": "git@github.com:flexdinesh/dineshpandiyan.com.git",
   "author": "Dinesh Pandiyan <flexdinesh@gmail.com>",
   "license": "MIT",
   "private": true,
