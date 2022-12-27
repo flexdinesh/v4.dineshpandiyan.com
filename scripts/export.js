@@ -5,8 +5,6 @@ const argv = yargs(hideBin(process.argv)).argv;
 
 const templateDirectories = {
   sleek: 'blog-sleek',
-  newspaper: 'blog-newspaper',
-  cardboard: 'blog-cardboard',
 };
 
 let templateDirectory = templateDirectories.sleek; // default

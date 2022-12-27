@@ -8,9 +8,7 @@
   "private": true,
   "workspaces": [
     "keystone-server",
-    "blog-sleek",
-    "blog-newspaper",
-    "blog-cardboard"
+    "blog-sleek"
   ],
   "scripts": {
     "dev": "concurrently --names \"SERVER,APP\" -c \"magenta.bold,green.bold\" \"cd keystone-server && yarn dev\" \"cd blog-sleek && yarn dev\"",
