@@ -38,5 +38,6 @@
   },
   "resolutions": {
     "next": "12.2.4"
-  }
+  },
+  "packageManager": "yarn@3.3.1"
 }
